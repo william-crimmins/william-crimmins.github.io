@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c5a68f-dd26-4866-9065-5140743006f5" name="Default Changelist" comment="Update title">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="27c5a68f-dd26-4866-9065-5140743006f5" name="Default Changelist" comment="Add how it works">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596631977243</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add how it works">
+      <created>1596632422967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596632422967</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +80,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update title" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update title" />
+    <MESSAGE value="Add how it works" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add how it works" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="160" key="Vcs.Push.Dialog.v2" timestamp="1596632442634">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="302" y="160" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1596632442634" />
   </component>
 </project>
